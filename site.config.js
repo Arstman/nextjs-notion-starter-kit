@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'In Rust Aaron Trust',
-  domain: 'mq.rs',
+  domain: 'https://www.notion.so/flyer/In-Rust-Aaron-Trust-98dd65ea098d47208c4e0489f38857da',
   author: 'Aaron 彭亚伦',
 
   // open graph metadata (optional)
